@@ -2,7 +2,6 @@ package com.example.demo.chuanglan;
 
 import com.alibaba.fastjson.JSONObject;
 import com.example.demo.chuanglan.utils.DES;
-import com.example.demo.chuanglan.utils.OkHttpUtil;
 import okhttp3.FormBody;
 import okhttp3.Request;
 import okhttp3.RequestBody;
