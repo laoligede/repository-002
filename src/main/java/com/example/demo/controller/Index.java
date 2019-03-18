@@ -25,9 +25,9 @@ public class Index {
         System.out.println("进入auth方法...");
         System.out.println("code = {}"+ code);
     }
-    @RequestMapping("/index")
+    @RequestMapping("/")
     public String auth() {
-        return "come in baby";
+        return "潘鹏加油,不懂就问^_^!";
     }
 
 }
